@@ -13,6 +13,12 @@ rules of traffic in an all-data medium, and renders the simulation on a dynamic 
 
 [Demo of 16 blocks in Philadelphia](http://michaeldrogalis.github.io/rush-hour/rush-hour.html)
 
+## Repositories
+
+- [Simulation](https://github.com/MichaelDrogalis/traffic-sim)
+- [Asphalt](https://github.com/MichaelDrogalis/asphalt)
+- [Triangulation Service](https://github.com/MichaelDrogalis/triangulate)
+
 ## Installation
 
 ```bash
