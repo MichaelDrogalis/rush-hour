@@ -29,6 +29,7 @@ $ sudo apt-get install memcached
 ```bash
 $ git clone https://github.com/MichaelDrogalis/traffic-sim.git
 $ cd traffic-sim
+$ lein midje # sanity check
 $ lein run
 ```
 
