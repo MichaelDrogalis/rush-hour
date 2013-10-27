@@ -59,6 +59,8 @@ $ emacs -nw resources/connections-schema.edn # connects intersection lanes toget
 $ emacs -nw resources/weighted-directions.edn # summative probability of driving on each lane.
 ```
 
+See [the tests](https://github.com/MichaelDrogalis/traffic-sim/tree/master/test/traffic_sim/scenarios) for examples of writing rules, lights, and intersections.
+
 ## Exploring the Sim
 
 - `init.clj` starts the app up.
