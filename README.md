@@ -43,3 +43,16 @@ $ lein run
 $ cd asphalt
 $ firefox resources/index.html
 ```
+
+## Customizing the Sim
+
+```bash
+$ emacs -nw resources/intersection-schema.edn # defines lanes, lights, traffic rules
+$ emacs -nw resources/connections-schema.edn # connects intersection lanes together
+$ emacs -nw resources/weighted-directions.edn # summative probability of driving on each lane.
+```
+
+## Exploring the Sim
+
+- `init.clj` starts the app up.
+- `core.clj` contains adjustable properties.
