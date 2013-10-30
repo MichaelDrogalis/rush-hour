@@ -9,9 +9,8 @@ rules of traffic in an all-data medium, and renders the simulation on a dynamic 
 
 ## Live demo
 
-(Warning: rendering intensive. Not mobile friendly)
-
-[Demo of 16 blocks in Philadelphia](http://michaeldrogalis.github.io/rush-hour/rush-hour.html)
+My little EC2 micro instance couldn't take all the traffic it was getting (pun intended).
+There's directions (ha, another pun) for running it locally below.
 
 ## Repositories
 
