@@ -7,6 +7,10 @@
 Rush Hour is a highly realistic traffic simulation platform. It exposes facilities to describe the
 rules of traffic in an all-data medium, and renders the simulation on a dynamic heatmap.
 
+## Architecture
+
+Over to [Tumblr](http://michaeldrogalis.tumblr.com/post/65274692089/clojure-understood-the-rush-hour-platform) for that.
+
 ## Live demo
 
 My little EC2 micro instance couldn't take all the traffic it was getting (pun intended).
