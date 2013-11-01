@@ -25,6 +25,7 @@ There's directions (ha, another pun) for running it locally below.
 ## Installation
 
 ```bash
+$ sudo apt-get install openjdk-7-jre
 $ sudo apt-get install leiningen
 $ sudo apt-get install memcached
 ```
